@@ -1,0 +1,5 @@
+C:\Users\user\Documents\c# test\Ochered_LinkedList_Exception_2\Ochered_LinkedList_Exception_2\bin\Debug\Ochered_LinkedList_Exception_2.exe.config
+C:\Users\user\Documents\c# test\Ochered_LinkedList_Exception_2\Ochered_LinkedList_Exception_2\bin\Debug\Ochered_LinkedList_Exception_2.exe
+C:\Users\user\Documents\c# test\Ochered_LinkedList_Exception_2\Ochered_LinkedList_Exception_2\bin\Debug\Ochered_LinkedList_Exception_2.pdb
+C:\Users\user\Documents\c# test\Ochered_LinkedList_Exception_2\Ochered_LinkedList_Exception_2\obj\Debug\Ochered_LinkedList_Exception_2.exe
+C:\Users\user\Documents\c# test\Ochered_LinkedList_Exception_2\Ochered_LinkedList_Exception_2\obj\Debug\Ochered_LinkedList_Exception_2.pdb

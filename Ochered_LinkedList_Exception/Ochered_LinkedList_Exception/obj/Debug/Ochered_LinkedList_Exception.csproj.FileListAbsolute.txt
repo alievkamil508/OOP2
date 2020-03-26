@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\Ochered_LinkedList_Exception\Ochered_LinkedList_Exception\bin\Debug\Ochered_LinkedList_Exception.exe.config
+C:\Users\user\Documents\c# test\Ochered_LinkedList_Exception\Ochered_LinkedList_Exception\bin\Debug\Ochered_LinkedList_Exception.exe
+C:\Users\user\Documents\c# test\Ochered_LinkedList_Exception\Ochered_LinkedList_Exception\bin\Debug\Ochered_LinkedList_Exception.pdb
+C:\Users\user\Documents\c# test\Ochered_LinkedList_Exception\Ochered_LinkedList_Exception\obj\Debug\Ochered_LinkedList_Exception.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\Ochered_LinkedList_Exception\Ochered_LinkedList_Exception\obj\Debug\Ochered_LinkedList_Exception.exe
+C:\Users\user\Documents\c# test\Ochered_LinkedList_Exception\Ochered_LinkedList_Exception\obj\Debug\Ochered_LinkedList_Exception.pdb

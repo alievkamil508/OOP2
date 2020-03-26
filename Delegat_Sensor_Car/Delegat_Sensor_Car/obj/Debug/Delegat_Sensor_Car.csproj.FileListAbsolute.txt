@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\Delegat_Sensor_Car\Delegat_Sensor_Car\bin\Debug\Delegat_Sensor_Car.exe.config
+C:\Users\user\Documents\c# test\Delegat_Sensor_Car\Delegat_Sensor_Car\bin\Debug\Delegat_Sensor_Car.exe
+C:\Users\user\Documents\c# test\Delegat_Sensor_Car\Delegat_Sensor_Car\bin\Debug\Delegat_Sensor_Car.pdb
+C:\Users\user\Documents\c# test\Delegat_Sensor_Car\Delegat_Sensor_Car\obj\Debug\Delegat_Sensor_Car.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\Delegat_Sensor_Car\Delegat_Sensor_Car\obj\Debug\Delegat_Sensor_Car.exe
+C:\Users\user\Documents\c# test\Delegat_Sensor_Car\Delegat_Sensor_Car\obj\Debug\Delegat_Sensor_Car.pdb
